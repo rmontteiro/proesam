@@ -9,7 +9,8 @@ II - vulnerabilidade ambiental relativa
 
 Estes vetores por sua vez são compostos por indicadores sendo que a vulnerabilidade sócio economica poussi indicadores fixos para o programa. São eles
 
-#A vulnerabilidade socioeconômica:
+# A vulnerabilidade socioeconômica
+
 I - um de mensuração do nível de desenvolvimento do Município, em
 relação ao restante do Estado do Espírito Santo, a ser apurado na forma
 disposta no Decreto Regulamentador;
@@ -22,7 +23,7 @@ A Vulnerabildiade Ambiental por sua vez possui indicadores variáveis que são f
 
 
 A vulnerabilidade Ambiental deverá produzir quando calculada cinco diferentes classes considerando o desempenho nos indidcadores componentes, são eles:
-#Classes da Vulnerabilidade Ambiental
+# Classes da Vulnerabilidade Ambiental
 I - municípios da classe 1 - vulnerabilidade ambiental relativa muito baixa;
 II - municípios da classe 2 - vulnerabilidade ambiental relativa baixa;
 III - municípios da classe 3 - vulnerabilidade ambiental relativa moderada;

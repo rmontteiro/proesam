@@ -25,7 +25,11 @@ A Vulnerabildiade Ambiental por sua vez possui indicadores variáveis que são f
 A vulnerabilidade Ambiental deverá produzir quando calculada cinco diferentes classes considerando o desempenho nos indidcadores componentes, são eles:
 ### Classes da Vulnerabilidade Ambiental
 I - municípios da classe 1 - vulnerabilidade ambiental relativa muito baixa;
+
 II - municípios da classe 2 - vulnerabilidade ambiental relativa baixa;
+
 III - municípios da classe 3 - vulnerabilidade ambiental relativa moderada;
+
 IV - municípios da classe 4 - vulnerabilidade ambiental relativa alta;
+
 V - municípios da classe 5- vulnerabilidade ambiental muito alta.
